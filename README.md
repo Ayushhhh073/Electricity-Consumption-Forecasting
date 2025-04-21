@@ -1,3 +1,5 @@
+![Banner](assets/banner.png)
+
 Electricity Consumption Forecasting
 
 This project helps predict how much electricity will be used in the future. It uses machine learning algorith XGboost to make smart guesses about what might happen next.
@@ -69,7 +71,6 @@ Thanks:-
 
 Thanks to Python, open datasets, and all the great free tools that made this project possible.
 
-![Banner](assets/banner.png)
 
 
 
