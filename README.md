@@ -68,5 +68,5 @@ You can use or change this project freely under the MIT License.
 Thanks:-
 
 Thanks to Python, open datasets, and all the great free tools that made this project possible.
-![Banner](assets/banner.png)
+
 
