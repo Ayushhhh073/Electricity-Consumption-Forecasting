@@ -69,4 +69,7 @@ Thanks:-
 
 Thanks to Python, open datasets, and all the great free tools that made this project possible.
 
+![Banner](assets/banner.png)
+
+
 
