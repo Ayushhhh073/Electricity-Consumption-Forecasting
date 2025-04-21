@@ -1,7 +1,6 @@
 Electricity Consumption Forecasting
 
-This project helps predict how much electricity will be used in the future. It uses machine learning, which means the computer 
-learns from old data to make smart guesses about what might happen next.
+This project helps predict how much electricity will be used in the future. It uses machine learning algorith XGboost to make smart guesses about what might happen next.
 
 
 What This Project Does:-
